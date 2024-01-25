@@ -1,0 +1,14 @@
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\bin\Debug\net7.0\BankInterest.exe
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\bin\Debug\net7.0\BankInterest.deps.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\bin\Debug\net7.0\BankInterest.runtimeconfig.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\bin\Debug\net7.0\BankInterest.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\bin\Debug\net7.0\BankInterest.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.AssemblyInfoInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.AssemblyInfo.cs
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.csproj.CoreCompileInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\refint\BankInterest.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\BankInterest.genruntimeconfig.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\C# in Jan 2024\Poly6\obj\Debug\net7.0\ref\BankInterest.dll

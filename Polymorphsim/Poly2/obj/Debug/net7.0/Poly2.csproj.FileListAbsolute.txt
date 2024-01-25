@@ -1,0 +1,15 @@
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\bin\Debug\net7.0\Poly2.exe
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\bin\Debug\net7.0\Poly2.deps.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\bin\Debug\net7.0\Poly2.runtimeconfig.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\bin\Debug\net7.0\Poly2.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\bin\Debug\net7.0\Poly2.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.csproj.AssemblyReference.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.AssemblyInfoInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.AssemblyInfo.cs
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.csproj.CoreCompileInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\refint\Poly2.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\Poly2.genruntimeconfig.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\Poly2\obj\Debug\net7.0\ref\Poly2.dll

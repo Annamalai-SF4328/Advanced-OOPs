@@ -1,0 +1,15 @@
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\bin\Debug\net7.0\SInheri1.exe
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\bin\Debug\net7.0\SInheri1.deps.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\bin\Debug\net7.0\SInheri1.runtimeconfig.json
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\bin\Debug\net7.0\SInheri1.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\bin\Debug\net7.0\SInheri1.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.csproj.AssemblyReference.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.AssemblyInfoInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.AssemblyInfo.cs
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.csproj.CoreCompileInputs.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\refint\SInheri1.dll
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.pdb
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\SInheri1.genruntimeconfig.cache
+C:\Users\AnnamalaiSaravanan\OneDrive - Syncfusion\Desktop\SInheri1\obj\Debug\net7.0\ref\SInheri1.dll
